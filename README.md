@@ -72,7 +72,7 @@ Designed with business leaders and analysts in mind, the dashboard helps Uber or
 
 ---
 
-## 📌 Resume / Portfolio Summary (Use This Too):
+## 📌 Resume / Portfolio Summary :
 
 > Developed a multi-page Power BI dashboard analyzing 100K+ Uber trips across KPIs like bookings, revenue, trip duration, and vehicle performance. Implemented dynamic DAX measures, heatmaps, drill-throughs, and optimization visuals to support data-driven pricing, operations, and strategic planning.
 
